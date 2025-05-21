@@ -17,10 +17,10 @@ The following is the list of items, which are required to be completed.
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
-1. Student 1
-2. Student name 2
-3. Name 3
-4. Name 4
+1. Student 1 Artyom Axyutits
+2. Student 2 Amrita Khatri
+3. Student 3 Yew Kheng Kwok (Dexter)
+5. Student 4 Tan Ming Kai
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
