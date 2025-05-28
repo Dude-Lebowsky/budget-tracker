@@ -27,7 +27,7 @@
 - Prompts / alerts the user when the user indicated budget is reached / exceeded
 
 ### User story 8
-- [ ] **Currency exchange rate** | Priority: Low | Estimate: 1 day(s) 
+- [ ] **Currency exchange rate** | Priority: Low | Estimate: 3 day(s) 
 - Allows the user to input purchases in different currencies and be automatically converted to the equivalent currency of their choice
 
 
