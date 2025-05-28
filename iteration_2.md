@@ -1,7 +1,7 @@
 # Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
 
 Checklist: 
-1. github entry timestamps
+1. GitHub entry timestamps
 2. User stories are correct: see p39
 
 * Assumed Velocity FROM iteration-1: ?? 
@@ -22,8 +22,8 @@ Completed:
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
+* 4 week(s) left, xx days of estimated amount of work 
+* 2 week(s) left, xx days
+* 1 week(s) left, xx days
+* 0 week(s) left, xx days
 * Actual Velocity: ?? 
