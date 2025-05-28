@@ -12,11 +12,11 @@ The following is the list of items, which are required to be completed.
 
 2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
 1. Submit link to your repository
-2. Download your github repository as a zip file and submit via LearnJCU.
+2. Download your GitHub repository as a zip file and submit via LearnJCU.
 
-## Team
+## Team (Group 2) (Class: PA)
 
-It is recommended to complete this assignment in a group of 2-4 students.
+It is recommended to complete this assignment in a group of 2-4 students. 
 1. Student 1 Artyom Axyutits
 2. Student 2 Amrita Khatri
 3. Student 3 Yew Kheng Kwok (Dexter)
@@ -26,7 +26,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 # Project planning BEFORE iteration-1, (see chapters 1-3)
 Checklist/TODOs: 
 * Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
+* GitHub entry timestamp is BEFORE the iteration-1
 * User stories are correct: see p39
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 * [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
