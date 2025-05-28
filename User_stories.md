@@ -1,3 +1,4 @@
+# Project planning
 ### User story 1
 - [ ] **Transaction info saving** | Priority:  | Estimate: X days
 - Allows users to store information about their transactions: description, date and amount
@@ -17,3 +18,17 @@
 ### User story 5
 - [ ] **Transactions filtering** | Priority:  | Estimate: X days 
 - Allows users to filter their transactions list by category, date, and/or amount
+
+Total: YY days
+
+# Iteration 1
+
+Total: YY days
+
+# Iteration 2
+
+Total: YY days
+
+# Not enough time/developers
+
+Total: YY days
