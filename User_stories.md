@@ -1,16 +1,16 @@
 ### User story 1
 - [ ] **Transaction info saving** | Priority: High  | Estimate: 5 day(s)
-- Allows users to store information about their transactions: description, date and amount
+- As a user I want to store information about my transactions: description, date and amount so that I am able to track my expenditure
 - Assumptions: 
 
 ### User story 2
 - [ ] **Dynamic budget** | Priority: High | Estimate: 5 day(s)
-- Allows users to enter/edit their budget. All transactions amount will be automatically deducted from the budget
-- Assumptions: 
+- As a user I want to enter/edit my budget, that way I am able to modify my budget and track my transactions in accordance to the budget remaining
+- Assumptions: All transactions amount will be automatically deducted from the budget
 
 ### User story 3
 - [ ] **Transaction categories** | Priority: Medium | Estimate: 5 day(s)
-- Allows users to choose a category for a transaction. For example, rent, groceries, etc
+- As a user I want to be able to choose a category for a transaction . For example, rent, groceries, etc, that way I am able to filter and track my expenditure better
 - Assumptions: 
 
 ### User story 4
