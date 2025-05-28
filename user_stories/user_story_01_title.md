@@ -22,7 +22,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
 In a real project, your older versions could be viewed via commits.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: e.g. The website will show current deals to Orion's orbits users
 
 ## Tasks, see chapter 4.
 
