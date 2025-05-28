@@ -3,7 +3,7 @@ as this [user_stories folder](./)
 
 # User story title: e.g. Show current deals
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+Keep any other version here as well, e.g. Display current deals, Let user click on "show-current-deals".
 
 ## Priority: 10 (e.g. latest for iteration-1)
 Any notes on priority go here. 
@@ -38,5 +38,5 @@ Description-v1: e.g. The website will show current deals to Orion's orbits users
 # Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* If you have multiple versions (changes between iterations), show them all.
 
