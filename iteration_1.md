@@ -4,9 +4,10 @@ Checklist:
 1. GitHub entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity: ?? 
+* Assumed Velocity: no. of developers (4) * productive hours a day (5) * total days (?)* focus factor (~60%) / 4-6 for hour per story point
+  (4 * 5 * ~20 * 0.6 /4) = ~60
 * Number of developers: 4
-* Total estimated amount of work: YY days
+* Total estimated amount of work: 20 days
 
 User stories or tasks (see chapter 4): [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
 1. ### User story 1 (Priority High) (Days: 5)
