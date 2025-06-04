@@ -12,20 +12,17 @@ Checklist:
 User stories or tasks (see chapter 4): [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
 1. ### User story 1 (Priority High) (Days: 5)
 2. ### User story 2 (Priority High) (Days: 5)
-3. ### User story 4 (Priority High) (Days: 7)
-4. ### User story 7 (Priority High) (Days: 3)
+
 
 In progress: * Task-2 (developer name or initials), date started
 * ### User story 1 (Name: ) (Date Started: 4 June 2025)
 * ### User story 2 (Name: ) (Date Started: 4 June 2025)
-* ### User story 4 (Name: ) (Date Started: 4 June 2025)
-* ### User story 7 (Name: ) (Date Started: 4 June 2025)
+
 
 Completed: * Task-3 (developer name or initials), date completed
 * ### User story 1 (Name: ) (Date Completed: TBC)
 * ### User story 2 (Name: ) (Date Completed: TBC)
-* ### User story 4 (Name: ) (Date Completed: TBC)
-* ### User story 7 (Name: ) (Date Completed: TBC)
+
 
 ### Burn Down for iteration-1 (see chapter 4):
 (we can just commit a screenshot for burn down and add the link here) (burn down is a graph)
