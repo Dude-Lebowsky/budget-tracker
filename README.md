@@ -30,11 +30,13 @@ Allow input of transactions in different currencies and auto-convert based on th
 
 ## Roles
 
-## Team (Group 2) (Class: PA)
-1. Student 1 Artyom Axyutits
-2. Student 2 Amrita Khatri
-3. Student 3 Yew Kheng Kwok (Dexter)
-5. Student 4 Tan Ming Kai
+
+
+## Team (Group 2) (Class: PA) (Roles)
+1. Student 1 Artyom Axyutits (Coder)
+2. Student 2 Amrita Khatri (Coder)
+3. Student 3 Yew Kheng Kwok (Dexter) (Coder)
+4. Student 4 Tan Ming Kai (Coder)
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
