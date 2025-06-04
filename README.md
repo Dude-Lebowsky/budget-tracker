@@ -28,15 +28,14 @@ Notify users when their budget is reached or exceeded, helping them manage finan
 8. Support Multi-Currency Transactions
 Allow input of transactions in different currencies and auto-convert based on the user’s selected currency preference.
 
+## Team (Group 2) (Class: PA)
 ## Roles
-
-
-
-## Team (Group 2) (Class: PA) (Roles)
-1. Student 1 Artyom Axyutits (Coder)
-2. Student 2 Amrita Khatri (Coder)
-3. Student 3 Yew Kheng Kwok (Dexter) (Coder)
-4. Student 4 Tan Ming Kai (Coder)
+| Student | Name | Role |
+|---|---|---|
+|1|Artyom Axyutits|Project Manager|
+|2|Amrita Khatri|Designer|
+|3|Yew Kheng Kwok|Developer|
+|4|Tan Ming Kai|Developer|
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
