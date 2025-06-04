@@ -15,13 +15,17 @@ User stories or tasks (see chapter 4): [user story or task title](./user_stories
 3. ### User story 4 (Priority High) (Days: 7)
 4. ### User story 7 (Priority High) (Days: 3)
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+In progress: * Task-2 (developer name or initials), date started
+* ### User story 1 (Initials: ) (Date Started: )
+* ### User story 2 (Initials: ) (Date Started: )
+* ### User story 4 (Initials: ) (Date Started: )
+* ### User story 7 (Initials: ) (Date Started: )
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+Completed: * Task-3 (developer name or initials), date completed
+* ### User story 1 (Initials: ) (Date Completed: )
+* ### User story 2 (Initials: ) (Date Completed: )
+* ### User story 4 (Initials: ) (Date Completed: )
+* ### User story 7 (Initials: ) (Date Completed: )
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
