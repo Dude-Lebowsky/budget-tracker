@@ -28,6 +28,8 @@ Completed: * Task-3 (developer name or initials), date completed
 * ### User story 7 (Initials: ) (Date Completed: )
 
 ### Burn Down for iteration-1 (see chapter 4):
+(we can just commit a screenshot for burn down and add the link here) (burn down is a graph)
+* ![Example](burn_down_graphs/Burn_Down_Example.png)
 Update this at least once per week
 * 4 week(s), xx days of estimated amount of work 
 * 2 week(s), xx days
