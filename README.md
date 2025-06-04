@@ -1,3 +1,4 @@
+# Project Name: Budget Tracker
 
 How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
