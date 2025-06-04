@@ -1,6 +1,6 @@
 ### User story 1
 - [ ] **Transaction info saving** | Priority: High  | Estimate: 5 day(s)
-- As a user I want to store information about my transactions (description, date and amount) so that I am able to track my expenditure.
+- As a user I want to store information about my transactions (description, date and amount)     so that I am able to track my expenditure.
 - Assumptions: 
 
 ### User story 2
