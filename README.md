@@ -1,23 +1,36 @@
 # Project Name: Budget Tracker
 
-How to edit this: test-2025
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
+## Project Overview:
+This project involves developing a user-friendly Budget Tracker application that helps individuals manage their personal finances by tracking income, expenses, and savings goals. The tool will provide real-time insights into spending habits and offer a clear overview of financial health, driven by data entered by the user. The development is guided by user stories to ensure the product meets practical, real-world needs.
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+## Goals
+1. Enable Transaction Recording
+Allow users to store key transaction details—description, date, and amount—to track their spending accurately.
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
+2. Support Dynamic Budget Management
+Provide functionality for users to create, edit, and monitor budgets, with automatic deduction of transactions from the set budget.
 
-## How to submit [You may delete this before submitting]
+3. Allow Categorization of Transactions
+Let users assign categories (e.g., rent, groceries) to transactions for better organization and insights into spending habits.
 
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-1. Submit link to your repository
-2. Download your GitHub repository as a zip file and submit via LearnJCU.
+4. Manage and Track Savings Goals
+Enable users to define saving goals (e.g., retirement, vacation) with descriptions and target amounts to stay motivated and measure progress.
+
+5. Filter Transactions by Criteria
+Implement filters for category, date, and amount to help users sort and group transactions effectively.
+
+6. Generate Monthly Financial Summaries
+At the end of each month, provide users with comprehensive summaries of spending and savings to aid future budgeting.
+
+7. Alert Users of Overspending
+Notify users when their budget is reached or exceeded, helping them manage finances and adjust spending in real-time.
+
+8. Support Multi-Currency Transactions
+Allow input of transactions in different currencies and auto-convert based on the user’s selected currency preference.
+
+## Roles
 
 ## Team (Group 2) (Class: PA)
-
-It is recommended to complete this assignment in a group of 2-4 students. 
 1. Student 1 Artyom Axyutits
 2. Student 2 Amrita Khatri
 3. Student 3 Yew Kheng Kwok (Dexter)
