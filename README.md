@@ -54,7 +54,7 @@ Total: YY days
 
 * Goal is to have 2 iterations during a trimester of teaching.
 * Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+* During practicals, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
 
 1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
 2. ...
