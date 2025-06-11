@@ -1,9 +1,3 @@
-# Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
-
-Checklist: 
-1. GitHub entry timestamps
-2. User stories are correct: see p39
-
 * Assumed Velocity: no. of developers (4) * productive hours a day (5) * total days (8)* focus factor (~60%) / 4-6 for hour per story point
   (4 * 5 * ~8 * 0.6 /4) = ~24
 * Number of developers: 4
@@ -27,7 +21,7 @@ Completed: * Task-3 (developer name or initials), date completed
 ### Burn Down for iteration-1 (see chapter 4):
 (we can just commit a screenshot for burn down and add the link here) (burn down is a graph)
 * ![Example](burn_down_graphs/Burn_Down_Example.png) (this is just an example)
-Update this at least once per week
+Update this at least once per week, each iteration lasts around 3-4 weeks for now 
 * 4 week(s), xx days of estimated amount of work 
 * 2 week(s), xx days
 * 1 week(s) left, xx days

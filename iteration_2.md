@@ -1,9 +1,3 @@
-# Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
-
-Checklist: 
-1. GitHub entry timestamps
-2. User stories are correct: see p39
-
 * Assumed Velocity FROM iteration-1: ?? 
 * Number of developers: ??
 * Total estimated amount of work: YY days
