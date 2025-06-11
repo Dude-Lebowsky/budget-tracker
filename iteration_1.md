@@ -1,3 +1,5 @@
+# Iteration 1:
+
 * Assumed Velocity: no. of developers (4) * productive hours a day (5) * total days (8)* focus factor (~60%) / 4-6 for hour per story point
   (4 * 5 * ~8 * 0.6 /4) = ~24
 * Number of developers: 4
