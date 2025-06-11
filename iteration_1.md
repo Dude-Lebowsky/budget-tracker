@@ -4,18 +4,18 @@
 * Total estimated amount of work: 10 days
 
 User stories or tasks (see chapter 4): [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-1. ### User story 1 (Priority High) (Days: 5)
-2. ### User story 2 (Priority High) (Days: 5)
+1. ### User story 1 (Transaction info saving) (Priority High) (Days: 5)
+2. ### User story 2 (Dynamic budget) (Priority High) (Days: 5)
 
 
 In progress: * Task-2 (developer name or initials), date started
-* ### User story 1 (Name: ) (Date Started: 4 June 2025)
-* ### User story 2 (Name: ) (Date Started: 4 June 2025)
+* ### User story 1 (Transaction info saving) (Name: ) (Date Started: 4 June 2025)
+* ### User story 2 (Dynamic budget) (Name: ) (Date Started: 4 June 2025)
 
 
 Completed: * Task-3 (developer name or initials), date completed
-* ### User story 1 (Name: ) (Date Completed: TBC)
-* ### User story 2 (Name: ) (Date Completed: TBC)
+* ### User story 1 (Transaction info saving) (Name: ) (Date Completed: TBC)
+* ### User story 2 (Dynamic budget) (Name: ) (Date Completed: TBC)
 
 
 ### Burn Down for iteration-1 (see chapter 4):
