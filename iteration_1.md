@@ -32,7 +32,7 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 
 ### Retrospective
 
-### What went well?
+### What went well? 
 
 1. The initial coding process was smooth and, we were able to work together efficiently
 2. The code also was relatively easy to troubleshoot and its functionalities work fairly well
