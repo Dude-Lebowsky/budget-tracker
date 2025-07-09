@@ -22,10 +22,20 @@ Completed: * Task-3 (developer name or initials), date completed
 
 ### Burn Down for iteration-1 (see chapter 4):
 (we can just commit a screenshot for burn down and add the link here) (burn down is a graph)
-* ![Example](burn_down_graphs/Burn_Down_Example.png) (this is just an example)
+* ![Example](burn_down_graphs/iteration1_burndown_chart.png) (this is just an example)
 Update this at least once per week, each iteration lasts around 3-4 weeks for now 
 * 4 week(s), xx days of estimated amount of work 
 * 2 week(s), xx days
 * 1 week(s) left, xx days
 * 0 week(s) left, xx days
 * Actual Velocity: ?? 
+
+### Retrospective
+
+### What went well?
+
+#### What problems did we face?
+During the break we were working on other projects/subjects hence there is 1 user story not done
+Working with GitHub had its difficulties as we had to coordinate times as to avoid merging issues
+
+#### Learning and action items 
