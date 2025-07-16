@@ -50,4 +50,3 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 1. Working simultaneously got easier when we remembered that we could commit to branches and eventually merge to the main instead of commiting straight to the main branch 
 2. We also should have better communication when working together in the form of regular scheduled meetings to inform one another on the changes, and their commitments to the branch
 3. Better time management could be done to avoid big downtime inbetween updates to avoid long-winded meetings
-4. 
