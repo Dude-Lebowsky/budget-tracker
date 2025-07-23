@@ -37,6 +37,13 @@ Allow input of transactions in different currencies and auto-convert based on th
 |3|Yew Kheng Kwok|Developer|
 |4|Tan Ming Kai|Developer|
 
+# Development tools
+- Android app development Kotlin/Java language
+- Android Studio IDE/Emulator
+- SQLite database
+* ![Example](Mockups/Android studio IDE.jpeg)
+* ![Example](Mockups/1.png)
+
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
 Checklist/TODOs: 
