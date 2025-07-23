@@ -1,23 +1,43 @@
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+# Iteration 2:
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+* Assumed Velocity: no. of developers (4) * productive hours a day (5) * total days (8)* focus factor (~60%) / 4-6 for hour per story point
+  (4 * 5 * ~8 * 0.6 /4) = ~24
+* Number of developers: 4
+* Total estimated amount of work: 10 days
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+User stories or tasks (see chapter 4): [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
+1. 
+2. 
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
 
-### Burn Down for iteration-2 (see chapter 4):
-Update this at least once per week
-* 4 week(s) left, xx days of estimated amount of work 
-* 2 week(s) left, xx days
+In progress: * Task-2 (developer name or initials), date started
+* 
+* 
+
+
+Completed: * Task-3 (developer name or initials), date completed
+* 
+* 
+
+### Burn Down for iteration-1 (see chapter 4):
+* ![Example](burn_down_graphs/iteration1_burndown_chart.png) 
+Update this at least once per week, each iteration lasts around 3-4 weeks for now 
+* 4 week(s), xx days of estimated amount of work 
+* 2 week(s), xx days
 * 1 week(s) left, xx days
 * 0 week(s) left, xx days
 * Actual Velocity: ?? 
+
+### Retrospective
+
+### What went well? 
+
+1. 
+
+#### What problems did we face?
+
+1. 
+
+#### Learning and action items 
+
+1. 
