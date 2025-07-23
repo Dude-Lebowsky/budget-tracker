@@ -32,11 +32,12 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 
 ### What went well? 
 
-1. 
+1. When collaborating with groupmates in GitHub, the branches made it easier to work simultaneously, we could commit code to a branch and eventually merge it once we were ready 
+2. When holding meeting from scrum, we were all punctual and communicated our goals as well as difficulties well to each other, this made troubleshooting a group effort and more efficient.
 
 #### What problems did we face?
 
-1. 
+1. Some members had different versions of GitHub, desktop app, local version, or the web version, this made troubleshooting confusing as sometimes the commiting and pushing or merging got desync
 
 #### Learning and action items 
 
