@@ -39,6 +39,6 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 
 1. Some members had different versions of GitHub, desktop app, local version, or the web version, this made troubleshooting confusing as sometimes the commiting and pushing or merging got desync
 
-#### Learning and action items 
+#### Learning and action items
 
 1. 
