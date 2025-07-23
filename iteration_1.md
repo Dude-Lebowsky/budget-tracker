@@ -21,13 +21,7 @@ Completed: * Task-3 (developer name or initials), date completed
 
 
 ### Burn Down for iteration-1 (see chapter 4):
-* ![Example](burn_down_graphs/iteration1_burndown_chart.png) 
-Update this at least once per week, each iteration lasts around 3-4 weeks for now 
-* 4 week(s), xx days of estimated amount of work 
-* 2 week(s), xx days
-* 1 week(s) left, xx days
-* 0 week(s) left, xx days
-* Actual Velocity: ?? 
+* ![Example](burn_down_graphs/iteration1_burndown_chart.png)
 
 ### Retrospective
 
