@@ -38,6 +38,7 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 #### What problems did we face?
 
 1. Some members had different versions of GitHub, desktop app, local version, or the web version, this made troubleshooting confusing as sometimes the commiting and pushing or merging got desync
+2. Time constraints were evident when working on user stories due to other projects in our team members schedule, this resulted in us dropping some user stories we found less crucial for functionality
 
 #### Learning and action items
 
