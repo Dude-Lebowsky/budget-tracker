@@ -41,6 +41,7 @@ Allow input of transactions in different currencies and auto-convert based on th
 ## Development
 - Android app development Kotlin/Java language
 - SQLite database
+- Jetpack Compose Development toolkit
 - Android Studio IDE
 ## Testing
 - Android Studio Emulator
