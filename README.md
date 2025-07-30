@@ -37,12 +37,21 @@ Allow input of transactions in different currencies and auto-convert based on th
 |3|Yew Kheng Kwok|Developer|
 |4|Tan Ming Kai|Developer|
 
-# Development tools
+# Technical documentation
+## Development
 - Android app development Kotlin/Java language
+- SQLite database
 - Android Studio IDE
+## Testing
 - Android Studio Emulator
 - Android phone
-- SQLite database
+## Version control
+- Git
+- Github
+# Communication
+- Whatsapp
+
+## Screenshots
 - ![Example1](https://github.com/Tan-ming-kai/CP3407/blob/main/Iteration%201%20Screenshots/android_studio_ide.png?raw=true)
 - ![Example2](https://github.com/Tan-ming-kai/CP3407/blob/main/Iteration%201%20Screenshots/i1.png?raw=true)
 
