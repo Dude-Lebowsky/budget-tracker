@@ -40,6 +40,7 @@ Allow input of transactions in different currencies and auto-convert based on th
 # Technical documentation
 ## Development
 - Android Studio IDE
+- Gradle Build Tool
 ### Frontend
 - Android app development Kotlin/Java language
 - Jetpack Compose Development toolkit
