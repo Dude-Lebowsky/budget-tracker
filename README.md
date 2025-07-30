@@ -39,10 +39,13 @@ Allow input of transactions in different currencies and auto-convert based on th
 
 # Technical documentation
 ## Development
+- Android Studio IDE
+### Frontend
+- Android app development Kotlin/Java language
+- Jetpack Compose Development toolkit
+### Backend
 - Android app development Kotlin/Java language
 - SQLite database
-- Jetpack Compose Development toolkit
-- Android Studio IDE
 ## Testing
 - Android Studio Emulator
 - Android phone
@@ -51,6 +54,7 @@ Allow input of transactions in different currencies and auto-convert based on th
 - Github
 # Communication
 - Whatsapp
+- Email
 
 ## Screenshots
 - ![Example1](https://github.com/Tan-ming-kai/CP3407/blob/main/Iteration%201%20Screenshots/android_studio_ide.png?raw=true)
