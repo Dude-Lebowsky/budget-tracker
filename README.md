@@ -32,7 +32,7 @@ Allow input of transactions in different currencies and auto-convert based on th
 ## Roles
 | Student | Name | Role |
 |---|---|---|
-|1|Artyom Axyutits|Project Manager|
+|1|Artyom Axyutits|Team Leader|
 |2|Amrita Khatri|Designer|
 |3|Yew Kheng Kwok|Developer|
 |4|Tan Ming Kai|Developer|
