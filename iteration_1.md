@@ -16,8 +16,8 @@ In progress: * Task-2 (developer name or initials), date started
 
 
 Completed: * Task-3 (developer name or initials), date completed
-* ### User story 1 (Transaction info saving) (Name: ) (Date Completed: TBC)
-* ### User story 2 (Dynamic budget) (Name: ) (Date Completed: TBC)
+* ### User story 1 (Transaction info saving)  (Date Completed: Jun 16 2025)
+* ### User story 2 (Dynamic budget)  (Date Completed: Jun 16 2025)
 
 
 ### Burn Down for iteration-1 (see chapter 4):
