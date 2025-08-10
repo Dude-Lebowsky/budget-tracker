@@ -1,7 +1,7 @@
 # Testing done
 
 ## Test 1 ⚠️
-- Task: Test whether goals entity are sucessfully retrieved from database
+- Task: Test whether goals entity are successfully retrieved from database
 - Date: 1 August 2025
 - Expected result: Display all goals entity inside database
 - Actual result: Only some goals were displayed

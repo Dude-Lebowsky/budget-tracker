@@ -39,7 +39,9 @@ Update this at least once per week, each iteration lasts around 3-4 weeks for no
 
 1. Some members had different versions of GitHub, desktop app, local version, or the web version, this made troubleshooting confusing as sometimes the commiting and pushing or merging got desync
 2. Time constraints were evident when working on user stories due to other projects in our team members schedule, this resulted in us dropping some user stories we found less crucial for functionality
+3. Even when branches were used there were still merging issues
 
 #### Learning and action items
 
-1. 
+1. We spent alot of time solving the merging issue and updating ourselves on the code formatting and what we were actually doing. 
+2. Spacing out user stories and their functionalities gave us ample time to work between our schedules and together.
