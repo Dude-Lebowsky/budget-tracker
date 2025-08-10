@@ -1,5 +1,6 @@
 # Project Name: Budget Tracker
-
+## NOTE
+Android studio doesn't work with github properly, so we had to send files to Ming Kai to upload them
 ## Project Overview:
 This project involves developing a user-friendly Budget Tracker application that helps individuals manage their personal finances by tracking income, expenses, and savings goals. The tool will provide real-time insights into spending habits and offer a clear overview of financial health, driven by data entered by the user. The development is guided by user stories to ensure the product meets practical, real-world needs.
 
