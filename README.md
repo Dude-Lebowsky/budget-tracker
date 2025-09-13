@@ -1,6 +1,5 @@
 # Project Name: Budget Tracker
-## NOTE
-Android studio doesn't work with github properly, so we had to send files to Ming Kai to upload them
+
 ## Project Overview:
 This project involves developing a user-friendly Budget Tracker application that helps individuals manage their personal finances by tracking income, expenses, and savings goals. The tool will provide real-time insights into spending habits and offer a clear overview of financial health, driven by data entered by the user. The development is guided by user stories to ensure the product meets practical, real-world needs.
 
@@ -19,65 +18,3 @@ Enable users to define saving goals (e.g., retirement, vacation) with descriptio
 
 5. Filter Transactions by Criteria
 Implement filters for category, date, and amount to help users sort and group transactions effectively.
-
-6. Generate Monthly Financial Summaries
-At the end of each month, provide users with comprehensive summaries of spending and savings to aid future budgeting.
-
-7. Alert Users of Overspending
-Notify users when their budget is reached or exceeded, helping them manage finances and adjust spending in real-time.
-
-8. Support Multi-Currency Transactions
-Allow input of transactions in different currencies and auto-convert based on the user’s selected currency preference.
-
-## Team (Group 2) (Class: PA)
-## Roles
-| Student | Name | Role |
-|---|---|---|
-|1|Artyom Axyutits|Team Leader|
-|2|Amrita Khatri|Designer|
-|3|Yew Kheng Kwok|Developer|
-|4|Tan Ming Kai|Developer|
-
-
-# Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* GitHub entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
-
-Total: YY days
-
-
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
-
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During practicals, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
-
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-# Actual iterations
-1. [Iteration-1](./iteration_1.md)
-2. [Iteration-2](./iteration_2.md)
-
-
